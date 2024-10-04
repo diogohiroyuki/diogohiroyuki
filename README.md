@@ -1,4 +1,4 @@
-# Olá! Sou [Diogo Hiroyuki] 👋
+# Oi, sou Diogo Hiroyuki. Tenho dados, uma toalha, e a suspeita de que a resposta não é 42... ou será? 🦆
 
 Cientista de Dados, guiado pela curiosidade e pelas melodias de Radiohead e Beatles. Entre os filmes de Kubrick e Antonioni, e as páginas de Tolstoi e Kerouac, encontro nos dados algo além de números — ecos silenciosos de histórias que aguardam para serem reveladas. Não procuro respostas definitivas, mas pistas sutis que o mundo nos oferece, fragmentos de significados que se entrelaçam, como notas que ressoam no vazio.
 
