@@ -8,7 +8,7 @@ Neste espaço, compartilho minhas explorações pela ciência de dados, onde cad
 
 ### 1. Projetos de DataViz
 
-#### [CO2 através da história](https://github.com/diogohiroyuki/co2-atraves-da-historia)
+#### [CO2 através da história](https://github.com/diogohiroyuki/dataviz/tree/main/CO2_atraves_da_historia)
 **Descrição**: Projeto de visualização de dados sobre as emissões de CO2 ao longo da história, destacando como as emissões variaram em diferentes períodos e regiões do mundo.
 
 - **Questões Fundamentais**:
