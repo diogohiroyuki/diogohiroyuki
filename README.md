@@ -44,4 +44,6 @@ Neste espaço, compartilho minhas explorações pela ciência de dados, onde cad
 
 - **Recursos Utilizados**: Pandas, Numpy, Sklearn, Scipy Spatial, Nltk, Requests, Time, Pickle, Keras, Vader, K-means, Spotipy, Matplotlib, Seaborn, Plotly, Power BI e Canva.
 
+- **Concluído em**: 08/05/2024.
+
 
