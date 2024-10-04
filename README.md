@@ -18,6 +18,8 @@ Neste espaço, compartilho minhas explorações pela ciência de dados, onde cad
 
 - **Recursos Utilizados**: Matplotlib, Plotly, Power BI, Tableau, Adobe Illustrator e Canva.
 
+- **Concluído em**: 06/07/2022.
+
 #### [Guerra e Paz](https://github.com/diogohiroyuki/dataviz/tree/main/guerra_e_paz)
 **Descrição**: Visualização de dados sobre o contexto histórico de conflitos e paz, questionando se vivemos realmente em tempos mais violentos ou se essa percepção é uma distorção das mídias modernas.
 
@@ -27,6 +29,7 @@ Neste espaço, compartilho minhas explorações pela ciência de dados, onde cad
 
 - **Recursos Utilizados**: Matplotlib, Seaborn, Plotly, Power BI, Tableau, Adobe Illustrator e Canva.
 
+- **Concluído em**: 26/07/2022.
 
 ---
 
