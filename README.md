@@ -6,9 +6,9 @@ Neste espaço, compartilho minhas explorações pela ciência de dados, onde cad
 
 ## Projetos
 
-### 1. Projetos de DataViz
+### Projetos de DataViz
 
-#### [CO2 através da história](https://github.com/diogohiroyuki/dataviz/tree/main/CO2_atraves_da_historia)
+#### 1. [CO2 através da história](https://github.com/diogohiroyuki/dataviz/tree/main/CO2_atraves_da_historia)
 **Descrição**: Projeto de visualização de dados sobre as emissões de CO2 ao longo da história, destacando como as emissões variaram em diferentes períodos e regiões do mundo.
 
 - **Questões Fundamentais**:
@@ -20,7 +20,7 @@ Neste espaço, compartilho minhas explorações pela ciência de dados, onde cad
 
 - **Concluído em**: 06/07/2022.
 
-#### [Guerra e Paz](https://github.com/diogohiroyuki/dataviz/tree/main/guerra_e_paz)
+#### 2. [Guerra e Paz](https://github.com/diogohiroyuki/dataviz/tree/main/guerra_e_paz)
 **Descrição**: Visualização de dados sobre o contexto histórico de conflitos e paz, questionando se vivemos realmente em tempos mais violentos ou se essa percepção é uma distorção das mídias modernas.
 
 - **Questões Fundamentais**:
@@ -33,9 +33,9 @@ Neste espaço, compartilho minhas explorações pela ciência de dados, onde cad
 
 ---
 
-### 2. Projetos de Ciência de Dados
+### Projetos de Ciência de Dados
 
-#### [Radiohead - Análise de Sentimento & Sistema de Recomendação](https://github.com/diogohiroyuki/datascience/tree/main/radiohead)
+#### 1. [Radiohead - Análise de Sentimento & Sistema de Recomendação](https://github.com/diogohiroyuki/datascience/tree/main/radiohead)
 **Descrição**: Projeto de análise de sentimentos nas letras do Radiohead e criação de um sistema de recomendação de músicas, baseado em métricas musicais.
 
 - **Questões Fundamentais**:
@@ -46,5 +46,5 @@ Neste espaço, compartilho minhas explorações pela ciência de dados, onde cad
 
 - **Concluído em**: 08/05/2024.
 
-### [Ecos da Felicidade - Em Andamento.]
+### 2. Ecos da Felicidade - Em Andamento
 
