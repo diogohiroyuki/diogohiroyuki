@@ -35,7 +35,7 @@ Neste espaço, compartilho minhas explorações pela ciência de dados, onde cad
 
 ### 2. Projetos de Ciência de Dados
 
-#### [Radiohead - Análise de Sentimento & Sistema de Recomendação](https://github.com/diogohiroyuki/datascience/radiohead/Radiohead_Diogo_Hiroyuki.pdf)
+#### [Radiohead - Análise de Sentimento & Sistema de Recomendação](https://github.com/diogohiroyuki/datascience/tree/main/radiohead)
 **Descrição**: Projeto de análise de sentimentos nas letras do Radiohead e criação de um sistema de recomendação de músicas, baseado em métricas musicais.
 
 - **Questões Fundamentais**:
@@ -46,5 +46,5 @@ Neste espaço, compartilho minhas explorações pela ciência de dados, onde cad
 
 - **Concluído em**: 08/05/2024.
 
-### Ecos da Felicidade - Em Andamento.
+### [Ecos da Felicidade - Em Andamento.]
 
