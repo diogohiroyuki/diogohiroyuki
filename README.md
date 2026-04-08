@@ -1,15 +1,13 @@
 # diogo hiroyuki
 
-data is how i make sense of things that don't.
+data scientist — data is how i make sense of things that don't.
 
 ---
 
-## skills
-- Python · SQL · BigQuery · Looker
-- pandas · matplotlib · seaborn · NLP
-
 ## projects
-- [eternal sunshine](https://github.com/diogohiroyuki/eternal-sunshine) — measuring emotional distance between two characters across a screenplay
+- [eternal sunshine](https://github.com/diogohiroyuki/eternal-sunshine) — NRC emotion lexicon and L2 distance to map emotional divergence between characters across a screenplay
+
+---
 
 ## contact
 - [linkedin](https://linkedin.com/in/diogohiroyuki)
